@@ -38,7 +38,7 @@
     --streaming-color: rgb(var(--rgb-streaming-color)) !important;
 
     /* --- BACKGROUND LAYERS --- */
-    --background-primary: rgba(24, 24, 24, 0.26) !important;
+    --background-primary: rgba(0, 25, 255, 0.26) !important;
     --background-secondary: rgba(26, 26, 26, 0.500) !important;
     --background-tertiary: rgba(26, 26, 26, 0.815) !important;
     --background-modifier-hover: rgba(20, 20, 20, 0.500);
