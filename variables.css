@@ -93,7 +93,7 @@
     --background-surface-higher: var(--background-tertiary) !important;
     --background-base-low: var(--background-tertiary) !important;
     --background-base-lower: var(--background-secondary) !important;
-    --card-background-default: rgba(20, 20, 20, 0.4) !important;
+    --card-background-default: rgba(0, 25, 255, 0.4) !important;
 
     /* --- PULSANTI --- */
     --button-danger-background: rgba(var(--rgb-close-button), 100%) !important;
